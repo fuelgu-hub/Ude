@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "同時押し",
+"symbol" : "∀",
+"data_url" : "https://script.google.com/macros/s/AKfycbzYo0BMm43LZHL-eaDYMfl7oA4GMMXeIqhi8_kP8I9fW_BZ6sLot5-alP8q6_jaB50GsQ/exec"
 }
